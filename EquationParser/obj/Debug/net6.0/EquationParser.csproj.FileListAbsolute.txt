@@ -1,0 +1,14 @@
+C:\Users\josdd\repos\p\EquationParser\EquationParser\bin\Debug\net6.0\EquationParser.exe
+C:\Users\josdd\repos\p\EquationParser\EquationParser\bin\Debug\net6.0\EquationParser.deps.json
+C:\Users\josdd\repos\p\EquationParser\EquationParser\bin\Debug\net6.0\EquationParser.runtimeconfig.json
+C:\Users\josdd\repos\p\EquationParser\EquationParser\bin\Debug\net6.0\EquationParser.dll
+C:\Users\josdd\repos\p\EquationParser\EquationParser\bin\Debug\net6.0\EquationParser.pdb
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.AssemblyInfoInputs.cache
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.AssemblyInfo.cs
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.csproj.CoreCompileInputs.cache
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.dll
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\refint\EquationParser.dll
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.pdb
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.genruntimeconfig.cache
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\ref\EquationParser.dll
