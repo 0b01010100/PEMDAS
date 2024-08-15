@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EquationParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+17300a2730ab9eb63a93d2f5328c61e383799212")]
 [assembly: System.Reflection.AssemblyProductAttribute("EquationParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EquationParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

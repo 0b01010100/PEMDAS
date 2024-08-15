@@ -4,14 +4,17 @@ class Program
 {
     static void Main(string[] args)
     {
+        Console.WriteLine(double.Parse("2"));
         if (args.Length == 0)
         {
             Console.WriteLine("Faild: Please provide a file path as a command-line argument.");
+
             return;
         }
         string filePath = args[0];
         try
         {
+            throw new Exception("dd");
             // Read all the content from the file
             string fileContent = File.ReadAllText(filePath);
             Console.WriteLine("Detected Equation:");

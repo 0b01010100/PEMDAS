@@ -12,3 +12,4 @@ C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\refint\Equ
 C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.pdb
 C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.genruntimeconfig.cache
 C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\ref\EquationParser.dll
+C:\Users\josdd\repos\p\EquationParser\EquationParser\obj\Debug\net6.0\EquationParser.sourcelink.json
